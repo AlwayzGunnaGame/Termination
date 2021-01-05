@@ -1,0 +1,225 @@
+{
+  "From": "0.1.1",
+  "To": "0.1.2",
+  "Hash": "uf5RoIx425l/sglDnL7ozMfWZ0s",
+  "TotalSize": 2639951,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:41:16.5797606Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/globalgamemanagers.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:41:16.9222761Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/level0",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:41:09.1430406Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/level1",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:41:12.4621493Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/resources.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:41:25.4433941Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/resources.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:41:25.4313062Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/sharedassets0.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:41:35.6919692Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/sharedassets0.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:41:35.670968Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/sharedassets1.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:41:35.7049711Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/Managed/Apathy.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:40:57.4363863Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/Managed/Apathy.Native.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:40:56.7843872Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/Managed/ApathyTransport.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:40:58.230387Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/Managed/Assembly-CSharp.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:41:02.6774738Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/Managed/Aura2_Core.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:40:57.1733859Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/Managed/BitpackersASMDEF.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:40:57.4353863Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/Managed/Controller2k.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:40:56.7843872Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/Managed/EmoCompressUtilsASMDEF.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:40:56.5738652Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/Managed/HalfFloatASMDEF.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:40:56.7833884Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/Managed/Mirror.Authenticators.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:40:59.2202481Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/Managed/Mirror.Components.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:40:58.9329031Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/Managed/Mirror.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:40:57.9683863Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/Managed/Ninja.WebSockets.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:40:56.829387Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/Managed/PhotonChat.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:40:57.0243875Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/Managed/PhotonRealtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:40:57.180387Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/Managed/PhotonUnityNetworking.Demos.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:41:00.2322501Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/Managed/PhotonUnityNetworking.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:40:58.1103868Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/Managed/PhotonUnityNetworking.Utilities.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:40:58.7353874Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/Managed/Unity.TextMeshPro.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:40:57.2493875Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/Managed/Unity.Timeline.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:40:57.0793873Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "MAV3RIQ Launcher_Data/Managed/UnityEngine.UI.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:40:55.4876544Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2021-01-05T20:56:14.3719583Z",
+      "Size": 0
+    }
+  ]
+}
