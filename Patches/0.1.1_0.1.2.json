@@ -1,210 +1,210 @@
 {
   "From": "0.1.1",
   "To": "0.1.2",
-  "Hash": "gmvI8doYLdYb3a1ILX4wx0cqlI8",
-  "TotalSize": 1766384,
+  "Hash": "1Z375pfGrWRRjBf6IcxpPKncOYY",
+  "TotalSize": 1766368,
   "Entries": [
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/globalgamemanagers",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:58:21.1100992Z",
+      "LastWriting": "2021-01-06T00:11:49.19185Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/globalgamemanagers.assets",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:58:21.4625479Z",
+      "LastWriting": "2021-01-06T00:11:49.5918503Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/level0",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:58:08.519489Z",
+      "LastWriting": "2021-01-06T00:11:27.143669Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/level1",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:58:16.3750744Z",
+      "LastWriting": "2021-01-06T00:11:44.4717223Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/resources.assets",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:58:32.1699594Z",
+      "LastWriting": "2021-01-06T00:11:58.1876113Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/sharedassets0.assets",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:59:02.2463156Z",
+      "LastWriting": "2021-01-06T00:12:31.1863679Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/sharedassets1.assets",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:59:02.3333135Z",
+      "LastWriting": "2021-01-06T00:12:31.2013688Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/Managed/Apathy.dll",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:57:50.828298Z",
+      "LastWriting": "2021-01-06T00:11:09.440901Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/Managed/Apathy.Native.dll",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:57:50.2472968Z",
+      "LastWriting": "2021-01-06T00:11:08.681902Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/Managed/ApathyTransport.dll",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:57:51.5042949Z",
+      "LastWriting": "2021-01-06T00:11:10.2389004Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/Managed/Assembly-CSharp.dll",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:57:56.3856787Z",
+      "LastWriting": "2021-01-06T00:11:15.2367254Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/Managed/Aura2_Core.dll",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:57:50.3862963Z",
+      "LastWriting": "2021-01-06T00:11:09.258903Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/Managed/BitpackersASMDEF.dll",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:57:50.5642978Z",
+      "LastWriting": "2021-01-06T00:11:09.5079025Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/Managed/Controller2k.dll",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:57:49.4562961Z",
+      "LastWriting": "2021-01-06T00:11:08.6969016Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/Managed/EmoCompressUtilsASMDEF.dll",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:57:49.8322968Z",
+      "LastWriting": "2021-01-06T00:11:08.5929026Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/Managed/HalfFloatASMDEF.dll",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:57:50.0182962Z",
+      "LastWriting": "2021-01-06T00:11:08.6809014Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/Managed/Mirror.Authenticators.dll",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:57:52.5652949Z",
+      "LastWriting": "2021-01-06T00:11:10.8299019Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/Managed/Mirror.Components.dll",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:57:51.9052957Z",
+      "LastWriting": "2021-01-06T00:11:11.1569007Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/Managed/Mirror.dll",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:57:50.9332945Z",
+      "LastWriting": "2021-01-06T00:11:09.7769024Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/Managed/Ninja.WebSockets.dll",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:57:50.2792953Z",
+      "LastWriting": "2021-01-06T00:11:08.8549025Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/Managed/PhotonChat.dll",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:57:50.260297Z",
+      "LastWriting": "2021-01-06T00:11:09.0109016Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/Managed/PhotonRealtime.dll",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:57:50.3122965Z",
+      "LastWriting": "2021-01-06T00:11:09.2189023Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/Managed/PhotonUnityNetworking.Demos.dll",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:57:53.9608382Z",
+      "LastWriting": "2021-01-06T00:11:12.2650231Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/Managed/PhotonUnityNetworking.dll",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:57:51.5242959Z",
+      "LastWriting": "2021-01-06T00:11:10.1339039Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/Managed/PhotonUnityNetworking.Utilities.dll",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:57:53.1233043Z",
+      "LastWriting": "2021-01-06T00:11:10.7159006Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/Managed/Unity.TextMeshPro.dll",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:57:50.3952955Z",
+      "LastWriting": "2021-01-06T00:11:09.5039014Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/Managed/Unity.Timeline.dll",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:57:50.3132972Z",
+      "LastWriting": "2021-01-06T00:11:09.0829022Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "Termination_Data/Managed/UnityEngine.UI.dll",
       "Attributes": 32,
-      "LastWriting": "2021-01-05T23:57:48.7792953Z",
+      "LastWriting": "2021-01-06T00:11:07.8189013Z",
       "Size": 0
     },
     {
       "Operation": 2,
       "RelativePath": "version.data",
       "Attributes": 32,
-      "LastWriting": "2021-01-06T00:00:08.2829506Z",
+      "LastWriting": "2021-01-06T00:13:05.069012Z",
       "Size": 0
     }
   ]
