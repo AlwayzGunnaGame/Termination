@@ -4,7 +4,7 @@
       "Operation": 4,
       "RelativePath": "Termination Launcher.exe",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:02:16.141202Z",
+      "LastWriting": "2021-01-06T16:35:39.5545227Z",
       "Size": 640000
     },
     {
@@ -20,6 +20,1217 @@
       "Attributes": 8224,
       "LastWriting": "2020-06-17T21:24:42Z",
       "Size": 20023808
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination.exe",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:12:34.8443669Z",
+      "Size": 640000
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/UnityCrashHandler32.exe",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:40Z",
+      "Size": 923136
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/UnityPlayer.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:24:42Z",
+      "Size": 20023808
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/version.data",
+      "Attributes": 32,
+      "LastWriting": "2021-01-06T00:13:05.069012Z",
+      "Size": 24
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:36Z",
+      "Size": 3910144
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:36Z",
+      "Size": 612352
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/MonoBleedingEdge/etc/mono/browscap.ini",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:36Z",
+      "Size": 311984
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/MonoBleedingEdge/etc/mono/config",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:36Z",
+      "Size": 3276
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:36Z",
+      "Size": 60575
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/MonoBleedingEdge/etc/mono/2.0/machine.config",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:36Z",
+      "Size": 29116
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/MonoBleedingEdge/etc/mono/2.0/settings.map",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:36Z",
+      "Size": 2622
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/MonoBleedingEdge/etc/mono/2.0/web.config",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:36Z",
+      "Size": 11686
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:36Z",
+      "Size": 1605
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:36Z",
+      "Size": 60575
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/MonoBleedingEdge/etc/mono/4.0/machine.config",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:36Z",
+      "Size": 33648
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/MonoBleedingEdge/etc/mono/4.0/settings.map",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:36Z",
+      "Size": 2622
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/MonoBleedingEdge/etc/mono/4.0/web.config",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:36Z",
+      "Size": 18848
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:36Z",
+      "Size": 1605
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:36Z",
+      "Size": 60575
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/MonoBleedingEdge/etc/mono/4.5/machine.config",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:36Z",
+      "Size": 34106
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/MonoBleedingEdge/etc/mono/4.5/settings.map",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:36Z",
+      "Size": 2622
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/MonoBleedingEdge/etc/mono/4.5/web.config",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:36Z",
+      "Size": 18857
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:36Z",
+      "Size": 1605
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/MonoBleedingEdge/etc/mono/mconfig/config.xml",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:36Z",
+      "Size": 25817
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/app.info",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:12:32.5463692Z",
+      "Size": 23
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/boot.config",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:12:31.7813684Z",
+      "Size": 113
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/globalgamemanagers",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:49.19185Z",
+      "Size": 777036
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/globalgamemanagers.assets",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:49.5918503Z",
+      "Size": 192360
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/globalgamemanagers.assets.resS",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:49.5908511Z",
+      "Size": 151200
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/level0",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:27.143669Z",
+      "Size": 4023524
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/level0.resS",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:27.1206688Z",
+      "Size": 131232
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/level1",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:44.4717223Z",
+      "Size": 3989180
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/level1.resS",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:44.4677212Z",
+      "Size": 131232
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/resources.assets",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:58.1876113Z",
+      "Size": 25958596
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/resources.assets.resS",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:58.1756122Z",
+      "Size": 30781488
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/resources.resource",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:58.0416122Z",
+      "Size": 81536
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/sharedassets0.assets",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:12:31.1863679Z",
+      "Size": 47089528
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/sharedassets0.assets.resS",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:12:31.1653691Z",
+      "Size": 56282916
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/sharedassets0.resource",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:12:31.1253677Z",
+      "Size": 248640
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/sharedassets1.assets",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:12:31.2013688Z",
+      "Size": 52025
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/Apathy.dll",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:09.440901Z",
+      "Size": 17920
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/Apathy.Native.dll",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:08.681902Z",
+      "Size": 11776
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/ApathyTransport.dll",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:10.2389004Z",
+      "Size": 8704
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/Assembly-CSharp.dll",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:15.2367254Z",
+      "Size": 1094656
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/Aura2_Core.dll",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:09.258903Z",
+      "Size": 100864
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/BitpackersASMDEF.dll",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:09.5079025Z",
+      "Size": 35328
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/ByteConverter.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-12-15T08:22:32Z",
+      "Size": 6144
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/Controller2k.dll",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:08.6969016Z",
+      "Size": 26112
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/Dropbox.Api.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-12-14T14:00:55Z",
+      "Size": 4196352
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/EmoCompressUtilsASMDEF.dll",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:08.5929026Z",
+      "Size": 6144
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/FloatCrusher.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-12-15T08:23:24Z",
+      "Size": 19968
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/HalfFloatASMDEF.dll",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:08.6809014Z",
+      "Size": 9728
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/HalFloat.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-12-15T08:25:22Z",
+      "Size": 9728
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/ICSharpCode.SharpZipLib.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-12-14T14:01:38Z",
+      "Size": 198144
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/Mirror.Authenticators.dll",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:10.8299019Z",
+      "Size": 8704
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/Mirror.Components.dll",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:11.1569007Z",
+      "Size": 46080
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/Mirror.dll",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:09.7769024Z",
+      "Size": 174080
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/Mono.Security.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 310272
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/mscorlib.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 3905024
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/netstandard.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 84992
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/Newtonsoft.Json.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-12-14T14:01:10Z",
+      "Size": 693680
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/Ninja.WebSockets.dll",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:08.8549025Z",
+      "Size": 68608
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/Photon3Unity3D.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-12-15T08:24:07Z",
+      "Size": 228352
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/PhotonChat.dll",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:09.0109016Z",
+      "Size": 33280
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/PhotonRealtime.dll",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:09.2189023Z",
+      "Size": 95744
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/PhotonUnityNetworking.Demos.dll",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:12.2650231Z",
+      "Size": 121856
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/PhotonUnityNetworking.dll",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:10.1339039Z",
+      "Size": 106496
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/PhotonUnityNetworking.Utilities.dll",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:10.7159006Z",
+      "Size": 55808
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/QuatCompress.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-12-15T08:24:36Z",
+      "Size": 7680
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/Serilog.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-12-14T14:01:15Z",
+      "Size": 126464
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/Serilog.Sinks.File.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-12-14T14:00:42Z",
+      "Size": 29184
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Collections.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 5120
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.ComponentModel.Composition.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 247808
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Configuration.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 43008
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Core.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 1057792
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Data.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 1941504
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Diagnostics.StackTrace.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 6656
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 2141696
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Drawing.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 184320
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.EnterpriseServices.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 33280
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Globalization.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 5120
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Globalization.Extensions.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 6144
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.IO.Compression.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 98816
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.IO.Compression.FileSystem.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 23040
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.IO.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 4608
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.IO.FileSystem.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 4608
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.IO.FileSystem.Primitives.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 4608
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Linq.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 4096
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Net.Http.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 114688
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Numerics.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 114176
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Runtime.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 12800
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Runtime.Extensions.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 5120
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Runtime.Serialization.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 840704
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Runtime.Serialization.Xml.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 7168
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.ServiceModel.Internals.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 218112
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Text.Encoding.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:56Z",
+      "Size": 5120
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Text.Encoding.Extensions.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:56Z",
+      "Size": 4608
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Text.RegularExpressions.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:56Z",
+      "Size": 4608
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Threading.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:56Z",
+      "Size": 5632
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Threading.Timer.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:56Z",
+      "Size": 4608
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Transactions.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 33280
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Xml.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 2414592
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Xml.Linq.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:54Z",
+      "Size": 119296
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/System.Xml.XPath.XDocument.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T20:51:56Z",
+      "Size": 5120
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/Unity.TextMeshPro.dll",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:09.5039014Z",
+      "Size": 331776
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/Unity.Timeline.dll",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:09.0829022Z",
+      "Size": 108544
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.AccessibilityModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 12288
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.AIModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 44544
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 57344
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.AnimationModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 145408
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.ARModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:38Z",
+      "Size": 12800
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.AssetBundleModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:22Z",
+      "Size": 20992
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.AudioModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 57344
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.ClothModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:28Z",
+      "Size": 15360
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.ClusterInputModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 10240
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:22Z",
+      "Size": 9216
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.CoreModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:14Z",
+      "Size": 1004544
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.CrashReportingModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:44Z",
+      "Size": 9728
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.DirectorModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:22Z",
+      "Size": 13312
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:46Z",
+      "Size": 84992
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.DSPGraphModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:22Z",
+      "Size": 17920
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.GameCenterModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:24Z",
+      "Size": 26624
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.GridModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 13824
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.HotReloadModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 8704
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.ImageConversionModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 12288
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.IMGUIModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:30Z",
+      "Size": 156160
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.InputLegacyModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 25600
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.InputModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:26Z",
+      "Size": 12288
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 10752
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.LocalizationModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 9728
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 134656
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:44Z",
+      "Size": 9216
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.Physics2DModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 105984
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.PhysicsModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 87040
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.ProfilerModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 8704
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:22Z",
+      "Size": 9728
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:40Z",
+      "Size": 19456
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 10240
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 13824
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.StreamingModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 9216
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.SubstanceModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 13312
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.SubsystemsModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:24Z",
+      "Size": 16896
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.TerrainModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 80384
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:28Z",
+      "Size": 9728
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.TextCoreModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:32Z",
+      "Size": 183808
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.TextRenderingModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 27648
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.TilemapModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:30Z",
+      "Size": 25088
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.TLSModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 8704
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.UI.dll",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:11:07.8189013Z",
+      "Size": 224768
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.UIElementsModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:42Z",
+      "Size": 724480
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.UIModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:30Z",
+      "Size": 22528
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.UmbraModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 8704
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.UNETModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:40Z",
+      "Size": 77312
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:40Z",
+      "Size": 32768
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.UnityConnectModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 10752
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:24Z",
+      "Size": 8704
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:40Z",
+      "Size": 11776
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:38Z",
+      "Size": 11264
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:30Z",
+      "Size": 43008
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:38Z",
+      "Size": 10752
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:44Z",
+      "Size": 19968
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.VehiclesModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:26Z",
+      "Size": 12288
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.VFXModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:20Z",
+      "Size": 38400
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.VideoModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:40Z",
+      "Size": 28672
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.VRModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:44Z",
+      "Size": 34304
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.WindModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:18Z",
+      "Size": 9728
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/UnityEngine.XRModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:23:38Z",
+      "Size": 53760
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Managed/websocket-sharp.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-11-17T11:47:39Z",
+      "Size": 250368
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Plugins/x86/network.bindings.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-08-23T15:08:15Z",
+      "Size": 89600
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Plugins/x86/sqlite3.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-08-23T15:13:20Z",
+      "Size": 789411
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Resources/unity default resources",
+      "Attributes": 8224,
+      "LastWriting": "2020-06-17T21:18:38Z",
+      "Size": 3837380
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Game/Termination_Data/Resources/unity_builtin_extra",
+      "Attributes": 8224,
+      "LastWriting": "2021-01-06T00:12:31.780369Z",
+      "Size": 406436
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "Logs/logs-20210106.txt",
+      "Attributes": 32,
+      "LastWriting": "2021-01-06T16:42:03.8511287Z",
+      "Size": 11149
     },
     {
       "Operation": 4,
@@ -165,119 +1376,119 @@
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/app.info",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:02:15.72469Z",
+      "LastWriting": "2021-01-06T16:35:38.7815212Z",
       "Size": 32
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/boot.config",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:02:15.5226913Z",
+      "LastWriting": "2021-01-06T16:35:38.1565224Z",
       "Size": 113
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/globalgamemanagers",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:02:09.3816617Z",
-      "Size": 777500
+      "LastWriting": "2021-01-06T16:35:20.8179798Z",
+      "Size": 776980
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/globalgamemanagers.assets",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:02:09.6316618Z",
+      "LastWriting": "2021-01-06T16:35:21.2799821Z",
       "Size": 192360
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/globalgamemanagers.assets.resS",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:02:09.6306619Z",
+      "LastWriting": "2021-01-06T16:35:21.2789814Z",
       "Size": 151200
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/level0",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:02:05.6129129Z",
+      "LastWriting": "2021-01-06T16:34:31.5146514Z",
       "Size": 16520
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/resources.assets",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:02:15.1856929Z",
-      "Size": 38206792
+      "LastWriting": "2021-01-06T16:35:37.1795222Z",
+      "Size": 38204892
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/resources.assets.resS",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:02:15.1656938Z",
+      "LastWriting": "2021-01-06T16:35:37.1485222Z",
       "Size": 58643144
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/resources.resource",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:02:14.998691Z",
+      "LastWriting": "2021-01-06T16:35:36.8198858Z",
       "Size": 298624
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/sharedassets0.assets",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:02:15.3546913Z",
+      "LastWriting": "2021-01-06T16:35:37.3945232Z",
       "Size": 17308
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/sharedassets0.assets.resS",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:02:15.3546913Z",
+      "LastWriting": "2021-01-06T16:35:37.3945232Z",
       "Size": 351892
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Managed/Apathy.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:01:56.1165784Z",
+      "LastWriting": "2021-01-06T16:34:19.555259Z",
       "Size": 17920
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Managed/Apathy.Native.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:01:55.1274518Z",
+      "LastWriting": "2021-01-06T16:34:18.7117481Z",
       "Size": 11776
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Managed/ApathyTransport.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:01:57.9588003Z",
+      "LastWriting": "2021-01-06T16:34:19.90726Z",
       "Size": 8704
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Managed/Assembly-CSharp.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:02:01.3207814Z",
+      "LastWriting": "2021-01-06T16:34:25.7111918Z",
       "Size": 1094656
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Managed/Aura2_Core.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:01:54.9974514Z",
+      "LastWriting": "2021-01-06T16:34:18.7797473Z",
       "Size": 100864
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Managed/BitpackersASMDEF.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:01:56.0965772Z",
+      "LastWriting": "2021-01-06T16:34:19.1507463Z",
       "Size": 35328
     },
     {
@@ -291,7 +1502,7 @@
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Managed/Controller2k.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:01:54.8464513Z",
+      "LastWriting": "2021-01-06T16:34:17.8667474Z",
       "Size": 26112
     },
     {
@@ -305,7 +1516,7 @@
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Managed/EmoCompressUtilsASMDEF.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:01:54.7814509Z",
+      "LastWriting": "2021-01-06T16:34:18.1907462Z",
       "Size": 6144
     },
     {
@@ -319,7 +1530,7 @@
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Managed/HalfFloatASMDEF.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:01:55.2204491Z",
+      "LastWriting": "2021-01-06T16:34:18.210747Z",
       "Size": 9728
     },
     {
@@ -340,21 +1551,21 @@
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Managed/Mirror.Authenticators.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:01:56.8503048Z",
+      "LastWriting": "2021-01-06T16:34:21.2862962Z",
       "Size": 8704
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Managed/Mirror.Components.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:01:57.1952688Z",
+      "LastWriting": "2021-01-06T16:34:20.9907761Z",
       "Size": 46080
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Managed/Mirror.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:01:55.7835758Z",
+      "LastWriting": "2021-01-06T16:34:19.6162592Z",
       "Size": 174080
     },
     {
@@ -389,7 +1600,7 @@
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Managed/Ninja.WebSockets.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:01:55.0434512Z",
+      "LastWriting": "2021-01-06T16:34:18.6787469Z",
       "Size": 68608
     },
     {
@@ -403,35 +1614,35 @@
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Managed/PhotonChat.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:01:54.8914503Z",
+      "LastWriting": "2021-01-06T16:34:18.6777476Z",
       "Size": 33280
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Managed/PhotonRealtime.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:01:55.1164506Z",
+      "LastWriting": "2021-01-06T16:34:18.6807508Z",
       "Size": 95744
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Managed/PhotonUnityNetworking.Demos.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:01:58.7823707Z",
+      "LastWriting": "2021-01-06T16:34:22.1053088Z",
       "Size": 121856
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Managed/PhotonUnityNetworking.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:01:56.2005774Z",
+      "LastWriting": "2021-01-06T16:34:19.7222595Z",
       "Size": 106496
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Managed/PhotonUnityNetworking.Utilities.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:01:57.9677948Z",
+      "LastWriting": "2021-01-06T16:34:20.4982594Z",
       "Size": 55808
     },
     {
@@ -690,14 +1901,14 @@
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Managed/Unity.TextMeshPro.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:01:55.24045Z",
+      "LastWriting": "2021-01-06T16:34:18.8907474Z",
       "Size": 331776
     },
     {
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Managed/Unity.Timeline.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:01:54.895451Z",
+      "LastWriting": "2021-01-06T16:34:18.9257465Z",
       "Size": 108544
     },
     {
@@ -998,7 +2209,7 @@
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Managed/UnityEngine.UI.dll",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:01:54.2424501Z",
+      "LastWriting": "2021-01-06T16:34:16.6936823Z",
       "Size": 224768
     },
     {
@@ -1159,7 +2370,7 @@
       "Operation": 4,
       "RelativePath": "Termination Launcher_Data/Resources/unity_builtin_extra",
       "Attributes": 8224,
-      "LastWriting": "2021-01-05T21:02:15.519691Z",
+      "LastWriting": "2021-01-06T16:35:38.1155213Z",
       "Size": 406436
     }
   ]
