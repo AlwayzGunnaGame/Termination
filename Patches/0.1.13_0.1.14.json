@@ -1,0 +1,197 @@
+{
+  "From": "0.1.13",
+  "To": "0.1.14",
+  "Hash": "ex+pibyNHvEJMwSIdxOF/G0GlxE",
+  "TotalSize": 28707328,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/data.unity3d",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:50.4121947Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Assembly-CSharp.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:26.148246Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Aura2_Core.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:24.079164Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/BitpackersASMDEF.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:24.571162Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/EmoCompressUtilsASMDEF.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:23.7181639Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/HalfFloatASMDEF.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:24.2131643Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/PhotonChat.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:24.0331631Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/PhotonRealtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:24.3191631Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/PhotonUnityNetworking.Demos.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:25.2933407Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/PhotonUnityNetworking.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:24.8231998Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/PhotonUnityNetworking.Utilities.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:25.0342007Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.Postprocessing.Runtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:23.6811645Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.ProBuilder.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:24.6086799Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.ProBuilder.KdTree.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:23.8681639Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.ProBuilder.Poly2Tri.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:24.0941623Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.ProBuilder.Stl.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:24.2181652Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.ProGrids.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:24.283163Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:24.5261623Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:24.1511624Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:24.3161646Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:24.3141634Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:24.8721994Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:24.3601643Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.TextMeshPro.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:24.1241632Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.Timeline.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:24.0501646Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/UnityEngine.UI.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:40:23.1980909Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2021-01-30T23:41:25.2903885Z",
+      "Size": 0
+    }
+  ]
+}
