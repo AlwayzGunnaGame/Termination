@@ -1,0 +1,211 @@
+{
+  "From": "0.1.24",
+  "To": "0.1.25",
+  "Hash": "gnta/+IxAxBUcmlw2WkRjOz6M/Q",
+  "TotalSize": 32720192,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/data.unity3d",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:30:17.3934326Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/sharedassets0.resource",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:27:34.4880682Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Assembly-CSharp.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:28.8260667Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Aura2_Core.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:23.8058982Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/BitpackersASMDEF.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:24.1418925Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Cinemachine.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:25.9427547Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/EmoCompressUtilsASMDEF.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:22.6041813Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/HalfFloatASMDEF.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:23.3108597Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/PhotonChat.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:23.4348598Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/PhotonRealtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:23.8628924Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/PhotonUnityNetworking.Demos.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:25.9517547Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/PhotonUnityNetworking.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:24.4138922Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/PhotonUnityNetworking.Utilities.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:25.0792678Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.Postprocessing.Runtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:23.5918601Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.ProBuilder.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:24.4328922Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.ProBuilder.KdTree.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:23.296859Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.ProBuilder.Poly2Tri.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:23.5548587Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.ProBuilder.Stl.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:23.5678596Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.ProGrids.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:23.1818608Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:24.1608923Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:23.756894Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:23.9348939Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:23.7988933Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:24.9344056Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:23.9348939Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.TextMeshPro.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:23.8568939Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/Unity.Timeline.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:23.5588589Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Termination_Data/Managed/UnityEngine.UI.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:24:21.8021815Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2021-03-20T23:32:51.4852135Z",
+      "Size": 0
+    }
+  ]
+}
